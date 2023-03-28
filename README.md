@@ -3,7 +3,7 @@
 
 
 
-[go and enjoy! :smile: ](https://mty1alr.github.io/Dino/)
+[go and enjoy! :smile: ](https://1mty12.github.io/Dino/)
 
 ![chrome offline game cast](assets/screenshot.gif)
 
