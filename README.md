@@ -3,7 +3,7 @@
 
 
 
-[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
+[go and enjoy! :smile: ](https://mty1alr.github.io/Dino/)
 
 ![chrome offline game cast](assets/screenshot.gif)
 
